@@ -1,0 +1,65 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main{
+  border-collapse: separate;
+  border-spacing: 20px 0;
+}
+
+td{
+  padding: 10px 0;
+  color:rgb(169, 169, 184)
+}
+
+
+
+
+
+
+
+
+
+
+.parent{
+  background-color:slategray;
+  border-bottom: solid blue;
+}
+thead{
+  background-color:white;
+  display: flex;
+  justify-content:space-around;
+}
+.Togglebutton{
+  background-color: blueviolet;
+  color:whitesmoke;
+  display:flex;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 20px;
+}
+.ChangeDesign{
+  background-color: whitesmoke;
+  color:rgb(156, 156, 161);
+  display:flex;
+  border: white;
+  color: whitesmoke;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 20px;
+}
+
+
+
+
